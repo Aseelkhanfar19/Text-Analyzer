@@ -1,5 +1,5 @@
 # 📈 Text-Analyzer
-Ruled Based - AI for analyze any content and detect any positive/negative words and return the result in terminal 
+Ruled Based - AI for analyze any content and detect the positive/negative words then return the result on terminal 
 
 -------------------------------------------
 # ⁉️ How it will work ?
